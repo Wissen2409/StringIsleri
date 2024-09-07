@@ -1,0 +1,14 @@
+/Users/emrahelis/Desktop/StringIsleri/bin/Debug/net8.0/StringIsleri
+/Users/emrahelis/Desktop/StringIsleri/bin/Debug/net8.0/StringIsleri.deps.json
+/Users/emrahelis/Desktop/StringIsleri/bin/Debug/net8.0/StringIsleri.runtimeconfig.json
+/Users/emrahelis/Desktop/StringIsleri/bin/Debug/net8.0/StringIsleri.dll
+/Users/emrahelis/Desktop/StringIsleri/bin/Debug/net8.0/StringIsleri.pdb
+/Users/emrahelis/Desktop/StringIsleri/obj/Debug/net8.0/StringIsleri.GeneratedMSBuildEditorConfig.editorconfig
+/Users/emrahelis/Desktop/StringIsleri/obj/Debug/net8.0/StringIsleri.AssemblyInfoInputs.cache
+/Users/emrahelis/Desktop/StringIsleri/obj/Debug/net8.0/StringIsleri.AssemblyInfo.cs
+/Users/emrahelis/Desktop/StringIsleri/obj/Debug/net8.0/StringIsleri.csproj.CoreCompileInputs.cache
+/Users/emrahelis/Desktop/StringIsleri/obj/Debug/net8.0/StringIsleri.dll
+/Users/emrahelis/Desktop/StringIsleri/obj/Debug/net8.0/refint/StringIsleri.dll
+/Users/emrahelis/Desktop/StringIsleri/obj/Debug/net8.0/StringIsleri.pdb
+/Users/emrahelis/Desktop/StringIsleri/obj/Debug/net8.0/StringIsleri.genruntimeconfig.cache
+/Users/emrahelis/Desktop/StringIsleri/obj/Debug/net8.0/ref/StringIsleri.dll
