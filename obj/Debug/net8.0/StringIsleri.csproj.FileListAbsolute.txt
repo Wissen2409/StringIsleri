@@ -12,3 +12,4 @@
 /Users/emrahelis/Desktop/StringIsleri/obj/Debug/net8.0/StringIsleri.pdb
 /Users/emrahelis/Desktop/StringIsleri/obj/Debug/net8.0/StringIsleri.genruntimeconfig.cache
 /Users/emrahelis/Desktop/StringIsleri/obj/Debug/net8.0/ref/StringIsleri.dll
+/Users/emrahelis/Desktop/StringIsleri/obj/Debug/net8.0/StringIsleri.sourcelink.json
